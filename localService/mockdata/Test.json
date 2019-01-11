@@ -1,0 +1,22 @@
+{
+	"Products": [
+		{ "SensorID": "DigiP_SoilM1",
+		   "Description": "Soil Mositure",
+		   "Timestamp": " ",
+		   "Value": " "
+		},
+		
+		{ "SensorID": "DigiP_WaterL1",
+		   "Description": "Water Level",
+		   "Timestamp": " ",
+		   "Value": " "
+		},
+		
+		{ "SensorID": "DigiP_LDR1",
+		   "Description": "Light Sensor",
+		   "Timestamp": " ",
+		   "Value": " "
+		}
+		
+]
+}
